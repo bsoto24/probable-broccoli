@@ -1,0 +1,9 @@
+C:\Users\ASUS\Desktop\netlib\MyBackNet\bin\Debug\netstandard2.0\MyBackNet.deps.json
+C:\Users\ASUS\Desktop\netlib\MyBackNet\bin\Debug\netstandard2.0\MyBackNet.dll
+C:\Users\ASUS\Desktop\netlib\MyBackNet\bin\Debug\netstandard2.0\MyBackNet.pdb
+C:\Users\ASUS\Desktop\netlib\MyBackNet\obj\Debug\netstandard2.0\MyBackNet.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\netlib\MyBackNet\obj\Debug\netstandard2.0\MyBackNet.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\netlib\MyBackNet\obj\Debug\netstandard2.0\MyBackNet.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\netlib\MyBackNet\obj\Debug\netstandard2.0\MyBackNet.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\netlib\MyBackNet\obj\Debug\netstandard2.0\MyBackNet.dll
+C:\Users\ASUS\Desktop\netlib\MyBackNet\obj\Debug\netstandard2.0\MyBackNet.pdb

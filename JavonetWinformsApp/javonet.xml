@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<javonet>
+	<activation>
+		<email>bsoto.dev@gmail.com</email>
+		<licencekey>o3JK-o3Q8-p2D8-Bm5t-Lo9w</licencekey>
+	</activation>
+	<references>
+		<reference>System.Windows.Forms</reference>
+		<reference>System.Drawing</reference>
+	</references>
+	<settings>
+		<apartmentState>STA</apartmentState>
+		<framework>v40</framework>
+	</settings>
+</javonet>

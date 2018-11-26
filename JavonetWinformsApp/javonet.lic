@@ -1,0 +1,23 @@
+<auth xmlns="">
+  <licenceKey>o3JK-o3Q8-p2D8-Bm5t-Lo9w</licenceKey>
+  <isServerEditionOs>False</isServerEditionOs>
+  <userName>Bryam Soto</userName>
+  <appName>javOnetTrial|javOnet</appName>
+  <appVersion>1.0</appVersion>
+  <email>bsoto.dev@gmail.com</email>
+  <verify>bi1uEHgmw7jjWVQX+4EXkhJ1j63nsbm/exA2sVGD3VFJnsPO5CdXXta2ZisZ5QWwguwckNzn780Jsfj1C2nfBgh+Dmvl/mj5D0o70Fh160wqXckl/I5fcZGj1QUYl+FkIFwWFRbHQRtfa1BtrAttGQbqCNNY8i09J66Zzv7FwBE=</verify>
+  <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+    <SignedInfo>
+      <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+      <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+      <Reference URI="">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+        </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <DigestValue>faOFBGZ2GaPQ5DLLmLXczKRnupo=</DigestValue>
+      </Reference>
+    </SignedInfo>
+    <SignatureValue>cbdTXoC6SkOBZLphzQ6a4z0GnaGpJGsverI/8QqaEgbwGeyKZfRIC6nzcN8lS0Rxk8bICdTX8WBAtvlek4kyA7zNsdQs1wKgsNxlkOe5Wvd41oxwPVwMdUGT0oSkWBiJpWIi8DFW1+YEZ2xwAbHGRzh6ziUPongf3svV2Pxamv4=</SignatureValue>
+  </Signature>
+</auth>
